@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/jholtkamp0454/pipelines-java/_apis/build/status/jelleholtkamp.pipelines-java?branchName=master)](https://dev.azure.com/jholtkamp0454/pipelines-java/_build/latest?definitionId=4&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
